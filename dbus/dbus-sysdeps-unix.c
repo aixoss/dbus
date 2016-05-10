@@ -55,6 +55,7 @@
 #include <netinet/in.h>
 #include <netdb.h>
 #include <grp.h>
+#include <alloca.h>
 
 #ifdef HAVE_ERRNO_H
 #include <errno.h>
